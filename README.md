@@ -1,1 +1,1 @@
-# gz-dbt-repository
+# Meta-AI-Workshop
